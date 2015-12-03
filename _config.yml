@@ -1,7 +1,7 @@
 name: Agile Complexification Inverter
 favicon: null
 layout_spectrum: 0.16722
-typography_spectrum: 0.01791
+typography_spectrum: 1
 title: "David's Agile Complexification Inverter Blog"
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3c535b'
     - '#7b8588'
     - '#5f3326'
-  brandStrength: 0.125
+  brandStrength: 0.875
   lightness: 0.375
   saturation: 0.0625
   rhythmicContrast: 0.5
