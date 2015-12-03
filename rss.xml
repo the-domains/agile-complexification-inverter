@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Agile Complexification Inverter]]></title>
         <description><![CDATA[Agile Complexification Inverter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/agile-complexification-inverter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 16:25:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Dec 2015 16:34:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/agile-complexification-inverter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/agile-complexification-inverter/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">883a3821-2d9c-414d-b36f-a06d16cc1a71</guid>
+            <pubDate>Thu, 03 Dec 2015 16:33:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Retromat:: A well planned Retro]]></title>
             <description><![CDATA[<article><h1>Retromat:: A well planned Retro</h1><p>Retro process phases: Set the Stage, Gather Data, Generate Insight, Decide what to Do, Close the Retro</p></article>]]></description>
-            <link>undefinedretromat-a-well-planned-retro/index.html</link>
+            <link>https://thegrid.ai/agile-complexification-inverter/retromat-a-well-planned-retro/index.html</link>
             <guid isPermaLink="false">b2590451-5696-42f4-bb59-dfd6c1f0f9fe</guid>
             <pubDate>Thu, 03 Dec 2015 16:25:16 GMT</pubDate>
         </item>
