@@ -1,7 +1,7 @@
 name: Agile Complexification Inverter
 favicon: null
-layout_spectrum: 0.96425
-typography_spectrum: 0.012955628102645278
+layout_spectrum: 0.16722
+typography_spectrum: 0.01791
 title: Agile Complexification Inverter
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.7681257741060108
-  lightness: 0.13107678527012467
-  saturation: 0.7534361022990197
-  rhythmicContrast: 0.14460755256004632
+  brandColors:
+    - '#d37c13'
+    - '#efe2d9'
+    - '#3c535b'
+    - '#7b8588'
+    - '#5f3326'
+  brandStrength: 0.125
+  lightness: 0.375
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
